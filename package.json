@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/geauxweisbeck4.litlogoanimation-fork-lj5h8pja",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve JPf7gQikpIOLf2qeiIOB --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
