@@ -1,8 +1,9 @@
 {
-  "name": "@wcd/geauxweisbeck4.litlogoanimation-fork-lj5h8pja",
-  "version": "0.0.0",
-  "description": "",
-  "license": "ISC",
+  "name": "GeauxWeisbeck4/LitLogoAnimation",
+  "version": "1.0.0",
+  "description": "A component for the Lit Logo animation from lit.dev playground",
+  "license": "MIT",
+  "repository": "https://github.com/GeauxWeisbeck4/litlogoanimation.git",
   "type": "module",
   "homepage": "{{ homepage }}",
   "scripts": {
