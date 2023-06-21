@@ -23,7 +23,6 @@
     "lit"
   ],
   "author": "Andrew Weisbeck <andrew.weisbeck@gmail.com>",
-  "devDependencies": {},
   "publishConfig": {
     "@geauxweisbeck4:registry": "https://npm.pkg.github.com"
   }
