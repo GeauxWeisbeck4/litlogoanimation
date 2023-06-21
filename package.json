@@ -1,15 +1,26 @@
 {
-  "name": "@geauxweisbeck4/litlogoanimation",
+  "name": "litlogoanimation@1.0.0",
   "version": "1.0.0",
   "description": "A component for the Lit Logo animation from lit.dev playground",
   "license": "MIT",
-  "repository": "https://github.com/GeauxWeisbeck4/litlogoanimation.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeauxWeisbeck4/litlogoanimation@1.0.0.git"
+  },
   "type": "module",
-  "homepage": "{{ homepage }}",
+  "homepage": "http://{{ homepage }}",
   "scripts": {
     "serve": "npx wcd-cli@latest serve JPf7gQikpIOLf2qeiIOB --open"
   },
   "dependencies": {
     "lit-html": "^2.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/GeauxWeisbeck4/litlogoanimation@1.0.0/issues"
+  },
+  "main": "index.js",
+  "keywords": [
+    "lit"
+  ],
+  "author": "Andrew Weisbeck <andrew.weisbeck@gmail.com>"
 }
