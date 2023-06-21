@@ -1,11 +1,11 @@
 {
-  "name": "litlogoanimation@1.0.0",
+  "name": "litlogoanimation",
   "version": "1.0.0",
   "description": "A component for the Lit Logo animation from lit.dev playground",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeauxWeisbeck4/litlogoanimation@1.0.0.git"
+    "url": "git+https://github.com/GeauxWeisbeck4/litlogoanimation.git"
   },
   "type": "module",
   "homepage": "http://{{ homepage }}",
@@ -16,7 +16,7 @@
     "lit-html": "^2.0.0"
   },
   "bugs": {
-    "url": "https://github.com/GeauxWeisbeck4/litlogoanimation@1.0.0/issues"
+    "url": "https://github.com/GeauxWeisbeck4/litlogoanimation/issues"
   },
   "main": "index.js",
   "keywords": [
