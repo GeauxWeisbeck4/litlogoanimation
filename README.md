@@ -1,9 +1,18 @@
-# LitElement Starter Kit
+# Lit Logo Animation Component
+
+I've created the Lit Logo Animation that you can find on the Lit.dev website playground for fun 
+and as a demonstration on how cool this WebComponents.dev tool is. I may be making a blog post about this
+soon. Hopefully you find this useful!
 
 ### Links
 
-- [Official website (lit-element.polymer-project.org/)](https://lit-element.polymer-project.org/)
-- [Guide](https://lit-element.polymer-project.org/guide)
-- [Chat](https://join.slack.com/t/polymer/shared_invite/enQtNTAzNzg3NjU4ODM4LTkzZGVlOGIxMmNiMjMzZDM1YzYyMzdiYTk0YjQyOWZhZTMwN2RlNjM5ZDFmZjMxZWRjMWViMDA1MjNiYWFhZWM)
-- [GitHub](https://github.com/Polymer/lit-element)
-- [Issues](https://github.com/Polymer/lit-element/issues)
+This web component was created from the example on the Lit.dev website playground. You can find that playground example here: Lit Logo Animation Playground.
+
+Check out more awesome custom elements by visiting my !
+
+Links
+- [GitHub Page](https://github.com/geauxweisbeck4/litlogoanimation)
+- [My GitHub Profile](https://github.com/geauxweisbeck4)
+- [Lit.dev Logo Animation Playground](https://lit.dev/playground/#sample=examples/motion-in-out)
+- [Lit Website](https://lit.dev)
+- [WebComponents.dev View](https://studio.webcomponents.dev/edit/JPf7gQikpIOLf2qeiIOB/stories/index.stories.js)
