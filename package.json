@@ -13,7 +13,7 @@
     "serve": "npx wcd-cli@latest serve JPf7gQikpIOLf2qeiIOB --open"
   },
   "dependencies": {
-    "lit-html": "^2.0.0"
+    "lit-html": "^3.0.0"
   },
   "bugs": {
     "url": "https://github.com/GeauxWeisbeck4/litlogoanimation/issues"
